@@ -1,7 +1,7 @@
-Trabajo Practico N°1 - 
-Milagros Ailen Coronil Chavez
+        Trabajo Practico N°1   
+Milagros Ailen Coronil Chavez  -  K1043
 
-Enunciado:
+- Enunciado:
  
 a. Se desea calcular el valor de π usando la serie de Liebniz, sin usar ninguna optimización. 
 
